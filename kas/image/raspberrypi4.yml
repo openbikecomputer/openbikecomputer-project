@@ -1,0 +1,14 @@
+header:
+    version: 11
+    includes:
+        - kas/bsp/common.yml
+
+machine: raspberrypi4-64
+
+repos:
+    meta-bryton-rider-860:
+        url: "https://github.com/agherzan/meta-raspberrypi.git"
+        refspec: "master"
+        path: "layers/meta-raspberrypi"
+        layers:
+            .:

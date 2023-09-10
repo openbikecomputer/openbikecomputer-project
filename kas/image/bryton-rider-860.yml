@@ -1,0 +1,14 @@
+header:
+    version: 11
+    includes:
+        - kas/bsp/common.yml
+
+machine: bryton-rider-860
+
+repos:
+    meta-bryton-rider-860:
+        url: "git@github.com:openbikecomputer/meta-bryton-rider-860.git"
+        refspec: "7d33ab8d2f1dcc9c0a27de5bad9427467e8960d9"
+        path: "layers/meta-bryton-rider-860"
+        layers:
+            .:
