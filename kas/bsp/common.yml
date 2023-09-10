@@ -8,7 +8,7 @@ target: core-image-openbikecomputer
 repos:
     poky:
         url: "git://git.yoctoproject.org/poky"
-        refspec: "1e6f147c686a91b9a5996f529e32ee1852f946b7"
+        refspec: "5d822b31316663c838c5864ab68b28fb3ca41351"
         path: "layers/poky"
         layers:
             meta:
@@ -16,7 +16,7 @@ repos:
 
     meta-openembedded:
         url: "https://github.com/openembedded/meta-openembedded.git"
-        refspec: "5f120a926b0fcd55cfe7565bb7ddf23661cad498"
+        refspec: "a88cb922f91fda95e8a584cee3092083d5ad3e98"
         path: "layers/meta-openembedded"
         layers:
             meta-oe:
@@ -28,7 +28,7 @@ repos:
 
     meta-open-bike-computer:
         url: "git@github.com:openbikecomputer/meta-open-bike-computer.git"
-        refspec: "9c3b0cdaaf3befb71322bb863c057a20b27126ff"
+        refspec: "daf473a391c9eca31f467e3e6cb80f710d81eb81"
         path: "layers/meta-open-bike-computer"
         layers:
             .:
