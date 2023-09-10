@@ -6,7 +6,7 @@ header:
 machine: raspberrypi4-64
 
 repos:
-    meta-bryton-rider-860:
+    meta-raspberrypi:
         url: "https://github.com/agherzan/meta-raspberrypi.git"
         refspec: "80a12f7fddfeae28c43242765374e7ade3a2a59e"
         path: "layers/meta-raspberrypi"
