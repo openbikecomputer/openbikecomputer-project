@@ -26,9 +26,9 @@ repos:
             meta-multimedia:
             meta-python:
 
-    meta-open-bike-computer:
-        url: "git@github.com:openbikecomputer/meta-open-bike-computer.git"
-        refspec: "daf473a391c9eca31f467e3e6cb80f710d81eb81"
-        path: "layers/meta-open-bike-computer"
+    meta-openbikecomputer:
+        url: "git@github.com:openbikecomputer/meta-openbikecomputer.git"
+        refspec: "89b746095e30243064d179a58b00316b2b760b35"
+        path: "layers/meta-openbikecomputer"
         layers:
             .:
