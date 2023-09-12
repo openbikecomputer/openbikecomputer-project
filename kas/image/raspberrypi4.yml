@@ -12,3 +12,7 @@ repos:
         path: "layers/meta-raspberrypi"
         layers:
             .:
+
+local_conf_header:
+    openbikecomputer-raspberry-conf: |
+        ENABLE_UART = "1"
