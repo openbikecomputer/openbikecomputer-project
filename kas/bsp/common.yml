@@ -3,7 +3,6 @@ header:
 
 distro: openbikecomputer-os
 build_system: oe
-target: core-image-openbikecomputer
 
 repos:
     poky:

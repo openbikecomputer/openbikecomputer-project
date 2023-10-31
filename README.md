@@ -4,7 +4,7 @@
 
 To build the Yocto image using KAS use the command
 ```
-kas build kas/image/raspberrypi4.yml
+kas build kas/board/raspberrypi4.yml:kas/image/core-image.yml
 ```
 You can of course use another image from the kas/image folder according to your device.
 

@@ -1,0 +1,6 @@
+header:
+    version: 11
+    includes:
+        - kas/bsp/common.yml
+
+target: core-image-openbikecomputer

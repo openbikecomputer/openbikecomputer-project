@@ -1,7 +1,5 @@
 header:
     version: 11
-    includes:
-        - kas/bsp/common.yml
 
 machine: raspberrypi4-64
 

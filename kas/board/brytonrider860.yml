@@ -1,7 +1,5 @@
 header:
     version: 11
-    includes:
-        - kas/bsp/common.yml
 
 machine: bryton-rider-860
 
