@@ -14,3 +14,4 @@ repos:
 local_conf_header:
     openbikecomputer-raspberry-conf: |
         ENABLE_UART = "1"
+        DISABLE_OVERSCAN = "1"
