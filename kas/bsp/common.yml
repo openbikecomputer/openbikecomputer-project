@@ -27,7 +27,7 @@ repos:
 
     meta-openbikecomputer:
         url: "git@github.com:openbikecomputer/meta-openbikecomputer.git"
-        refspec: "1fda2a7737b979e1cce31d1739a7e57458748f8e"
+        refspec: "9b7f7f8dcb2ff27ec6384c5d690e7164828fc781"
         path: "layers/meta-openbikecomputer"
         layers:
             .:
