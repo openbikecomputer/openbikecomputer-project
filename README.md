@@ -2,9 +2,15 @@
 
 ## Quick start
 
-To build the Yocto image using KAS use the command
+Build the Yocto image using KAS use the command
+### Raspberry-Pi 4 (dev only)
 ```
 kas build kas/board/raspberrypi4.yml:kas/image/core-image.yml
+```
+
+### Bryton Rider 860
+```
+kas build kas/board/brytonrider860.yml:kas/image/core-image.yml
 ```
 You can of course use another image from the kas/image folder according to your device.
 
