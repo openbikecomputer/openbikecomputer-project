@@ -6,7 +6,7 @@ machine: bryton-rider-860
 repos:
     meta-brytonrider860:
         url: "git@github.com:openbikecomputer/meta-brytonrider860.git"
-        refspec: "7401f5342e783079f5f68492d0e22b06eff6ba81"
+        refspec: "44b13f60e7c88809cc4469f0d76b720721c6e0cb"
         path: "layers/meta-brytonrider860"
         layers:
             .:
