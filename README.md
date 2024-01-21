@@ -22,3 +22,23 @@ KAS:
 ```
 sudo apt install kas
 ```
+
+## Install and use KAS in python virtual-env (venv)
+
+### Create the venv and install KAS in it
+```
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install --upgrade pip
+python3 -m pip install kas
+```
+
+### Activate the venv
+```
+source .venv/bin/activate
+```
+
+### Deactivate the venv
+```
+deactivate
+```
